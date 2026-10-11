@@ -1,11 +1,10 @@
-# Binary Quest – Tikshuv CCNA
+# משימת הבינארי – תקשוב CCNA
 
-A browser game that teaches binary ⇄ decimal ⇄ hexadecimal conversion using the
-**Power Table** (2⁰ … 2⁷ = 1 … 128), not formulas.
+משחק דפדפן בעברית ללימוד המרות בין בינארי, עשרוני והקסדצימלי בעזרת **טבלת הכוח** (2⁰ … 2⁷ = 1 … 128), בלי נוסחאות.
 
-Open `index.html` in any browser. No build or install needed.
+פותחים את `index.html` בכל דפדפן. אין צורך בהתקנה.
 
-- 7 story levels (Bit Camp → CCNA Core boss), 10 packets each
-- Pass = 7/10 correct **and** a points threshold; 4 lives per attempt, retry any time
-- Power-ups: Scanner, Time Freeze, Shield, Skip, Double points (also earned by streaks)
-- Progress is saved in the browser; certificate at the end
+- 7 שלבים עם סיפור (ממחנה הביטים ועד בוס CCNA), 10 חבילות בכל שלב
+- מעבר שלב = 7/10 נכון **וגם** סף נקודות; 4 חיים לניסיון, אפשר לנסות שוב ללא הגבלה
+- כוחות על: סורק, הקפאת זמן, מגן, דילוג, כפל נקודות (מתקבלים גם ברצפים)
+- ההתקדמות נשמרת בדפדפן; תעודה בסוף המשחק
